@@ -21,6 +21,7 @@ Hope it helps!
 **Not working:**
 
 - Standby
+- No audio from on-board sound card (is probably easy to patch)
 - GPU DVI out
 - Machine keeps running with no display output when macOS tries to restart (just shut the machine down manually)
 
